@@ -10,7 +10,7 @@ function About() {
           <h2 data-aos="fade-right"> Hello There 🙋‍♀️I am Swati</h2>
           <div data-aos="fade-right">
             <p>
-              A third year student pursuing B.E. Information & Technology at
+              A final year student pursuing B.E. Information & Technology at
               DYPCOE,Akurdi. I am currently exploring and learning technologies
               in fullstack development and practicing DSA along the way.I'm
               looking for working opportunities in web domain. I am willing to
@@ -20,7 +20,7 @@ function About() {
             </p>
           </div>
 
-          <a className="  mybtn" data-aos="fade-right" href="https://drive.google.com/file/d/13yel2Iu6h-KLDXO2wQ0K0aG9KfVxIedR/view?usp=sharing">
+          <a className="  mybtn" data-aos="fade-right" href="https://drive.google.com/file/d/1oMVXvwsAehac_zCqrdSkxtQE9uYyCWFx/view?usp=sharing">
             Download CV
           </a>
           <a className="  mybtn" data-aos="fade-right" href="https://www.linkedin.com/in/swati-457b35229/">
