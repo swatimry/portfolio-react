@@ -23,6 +23,10 @@ function Education() {
           <h5>B.E Second year</h5>
           <p>SGPA - 9.23 (D.Y.Patil College of Engineering) </p>
         </div>
+         <div>
+          <h5>B.E Third year</h5>
+          <p>SGPA - 9.79 (D.Y.Patil College of Engineering) </p>
+        </div>
       </div>
     </section>
   );
